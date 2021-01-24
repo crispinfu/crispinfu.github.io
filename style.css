@@ -1,0 +1,49 @@
+html {
+  font-size: 14px;
+  font-family: 'PT Serif', serif;
+}
+
+.home {
+    color: grey;
+    text-decoration: none; /* no underline */
+  }
+
+
+h1 {
+  font-family: 'Roboto';
+  font-size: 60px;
+}
+
+@-webkit-keyframes blinker {
+  from {opacity: 1.0;}
+  to {opacity: 0.0;}
+}
+
+.blink{
+    text-decoration: blink;
+  	-webkit-animation-name: blinker;
+  	-webkit-animation-duration: 2s;
+  	-webkit-animation-iteration-count:infinite;
+  	-webkit-animation-timing-function:ease-in-out;
+  	-webkit-animation-direction: alternate;
+  }
+
+p, li {
+  font-size: 20px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
+li {
+  list-style-type: none; /* Remove bullets */
+}
+
+body {
+  width: 80%;
+  margin: 0 auto;
+}
+
+h1 {
+  margin: 0;
+  padding: 20px 0;
+}
