@@ -1,6 +1,4 @@
 # crispinfu.github.io
 Github Pages
 
-Hi
-
-I'm playing around with Github Pages and trying out some stuff.
+A place to try out some stuff with Github Pages.
