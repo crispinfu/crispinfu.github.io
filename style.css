@@ -20,8 +20,13 @@ p, li {
   color: #4F4F4F;
 }
 
-li {
-  list-style-type: none; /* Remove bullets */
+
+ul {
+  list-style-type: square; /* Remove bullets */
+}
+
+ul.hidebullet {
+  list-style-type: none;
 }
 
 body {
