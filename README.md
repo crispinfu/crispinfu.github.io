@@ -2,3 +2,5 @@
 Github Pages
 
 A place to try out some stuff with Github Pages.
+
+http://crispinfu.github.io/
